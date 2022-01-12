@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Wave&color=auto&height=300&section=header&text=JeongHo Park&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=Wave&color=auto&height=300&section=header&text=JeongHo Park<br>4&fontSize=50" />
 
 
 
